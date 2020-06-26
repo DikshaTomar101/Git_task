@@ -1,1 +1,1 @@
-2nd feature file
+fetaure3 added to feature2.txt
